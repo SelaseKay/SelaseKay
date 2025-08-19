@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there,
 
-<!--
-**SelaseKay/SelaseKay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **software engineer** with 3+ years of experience building scalable applications using **Flutter** and **React**.  
+I love crafting modern user interfaces and seamless experiences across mobile and web platforms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Open Source Contributions
+I’m an active open source contributor, with contributions to:  
+
+- [Flutter](https://github.com/flutter/flutter)  
+- [FlutterFire](https://github.com/firebase/flutterfire)  
+- [LocalSend](https://github.com/localsend/localsend)  
+- [Flank](https://github.com/Flank/flank)  
+- [React Native Firebase](https://github.com/invertase/react-native-firebase)  
