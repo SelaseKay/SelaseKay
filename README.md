@@ -1,7 +1,7 @@
 ## Hi there,
 
-I’m a **software engineer** with 4+ years of experience building scalable applications using **Flutter** and **React**.  
-I love crafting modern user interfaces and seamless experiences across mobile and web platforms.
+I’m a **software engineer** focused on building scalable, high-quality applications using **Flutter** and **React**. 
+I’m also passionate about open source and enjoy contributing to developer tools and platforms that help teams ship better software.
 
 ---
 
